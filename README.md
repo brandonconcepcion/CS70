@@ -1,9 +1,8 @@
 # CS70
-My CS 70 Final study material: 
 
 Via the EECS website: 
 
-COMPSCI 70 - Discrete Mathematics and Probability Theory
+[COMPSCI 70](https://www.eecs70.org/) - Discrete Mathematics and Probability Theory
 Discusses concepts relating to: 
 - Logic, infinity, and induction;
 - Applications include undecidability and stable marriage problems.

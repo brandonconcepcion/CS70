@@ -1,9 +1,6 @@
-# CS70
+# [COMPSCI 70](https://www.eecs70.org/) - Discrete Mathematics and Probability Theory
 
-Via the EECS website: 
-
-[COMPSCI 70](https://www.eecs70.org/) - Discrete Mathematics and Probability Theory
-Discusses concepts relating to: 
+The main topics covered in the course: 
 - Logic, infinity, and induction;
 - Applications include undecidability and stable marriage problems.
 - Modular arithmetic and GCDs; applications include primality testing and cryptography.

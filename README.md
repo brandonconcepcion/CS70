@@ -1,5 +1,8 @@
-# [COMPSCI 70](https://www.eecs70.org/) - Discrete Mathematics and Probability Theory
-<img src="https://www.eecs70.org/assets/penguin_and_pigeon.png" alt="70 Logo" width="100"/>
+# [COMPSCI 70](https://www.eecs70.org/) - Discrete Mathematics and Probability Theory 
+
+<div style="text-align:center;">
+    <img src="https://www.eecs70.org/assets/penguin_and_pigeon.png" alt="70 Logo" width="200"/>
+</div>
 
 The main topics covered in the course: 
 - Logic, infinity, and induction;

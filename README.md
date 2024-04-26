@@ -5,12 +5,25 @@
 </p>
 
 The main topics covered in the course: 
-- Logic, infinity, and induction;
-- Applications include undecidability and stable marriage problems.
-- Modular arithmetic and GCDs; applications include primality testing and cryptography.
-- Polynomials; examples include error correcting codes and interpolation.
-- Probability including sample spaces, independence, random variables, the law of large numbers, and Markov Chains;
-- Examples include load balancing, existence arguments, and Bayesian inference.
+- Propositional Logic
+- Sets
+- Induction
+- Stable Matching
+- Graphs
+- Modular Arithmetic
+- RSA 
+- Polynomials and Secret Sharing
+- Error Correcting Codes
+- Countability
+- Counting
+- Discrete Probability
+- Conditional Probability
+- Binomial Distributions
+- Geometric Distributions
+- Poisson Distributions
+- Variance
+- Concentration Inequalities
+- Markov Chains
 
 
 
